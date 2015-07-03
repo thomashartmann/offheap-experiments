@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.kevoree.modeling:org.kevoree.modeling.microframework:4.18.5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kevoree/modeling/org.kevoree.modeling.microframework/4.18.5-SNAPSHOT/org.kevoree.modeling.microframework-4.18.5-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kevoree/modeling/org.kevoree.modeling.microframework/4.18.5-SNAPSHOT/org.kevoree.modeling.microframework-4.18.5-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kevoree/modeling/org.kevoree.modeling.microframework/4.18.5-SNAPSHOT/org.kevoree.modeling.microframework-4.18.5-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
