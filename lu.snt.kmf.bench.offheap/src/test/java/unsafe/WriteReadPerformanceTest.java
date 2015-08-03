@@ -318,7 +318,7 @@ public class WriteReadPerformanceTest {
         int read = 0;
 
         for (int r = 0; r < REPETITIONS; r++) {
-            OffHeapLongArray directLongArray = new OffHeapLongArray(SIZE);
+            unsafe.OffHeapLongArray directLongArray = new unsafe.OffHeapLongArray(SIZE);
 
             // writing
             long start_writing = System.currentTimeMillis();

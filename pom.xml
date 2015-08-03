@@ -6,7 +6,17 @@
 
     <groupId>lu.snt.kmf.offheap</groupId>
     <artifactId>root</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>lu.snt.kmf.bench.analytics</module>
+        <module>lu.snt.kmf.bench.ml</module>
+        <module>lu.snt.kmf.bench.offheap</module>
+    </modules>
+
+    <properties>
+        <kmf.version>4.19.1-SNAPSHOT</kmf.version>
+    </properties>
 
     <dependencies>
         <dependency>
